@@ -15,7 +15,7 @@ Smart Contact Manager is a web-based application designed to help users efficien
 
 ## 🛠️ Technologies Used
 - **Backend:** Java, Spring Boot, Spring Security, Hibernate, JPA
-- **Frontend:** Thymeleaf(Conditional Rendering), Bootstrap, HTML, CSS, JavaScript
+- **Frontend:** Thymeleaf(Conditional Rendering), Bootstrap, HTML, CSS
 - **Database:** MySQL
 - **Build Tool:** Maven
 - **Authentication:**  Spring Security with BCrypt Password Encoder
