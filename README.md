@@ -1,7 +1,7 @@
 # Smart-contact-Manager
 # Smart Contact Manager
 
-Smart Contact Manager is a web-based application designed to help users efficiently manage their contacts. The application provides functionalities such as user authentication, adding, updating, and deleting contacts, and a responsive UI for a seamless experience.
+Smart Contact Manager is a web-based application designed to help users efficiently manage their contacts. The application provides functionalities such as user authentication, adding, updating, and deleting contacts, and a responsive UI for a seamless experience(Working on Payment Gateway ,trying to add razorpay gateway for donation).
 
 
 
